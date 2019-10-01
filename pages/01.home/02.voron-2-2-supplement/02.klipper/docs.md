@@ -173,7 +173,7 @@ Next you need to check the movement. To begin with you do not want to run a home
 SET_KINEMATIC_POSITION X=125 Y=125 Z=100
 ```
 
-!!! You may need to add the following into your config for set_kinematic_position to work
+!!! You need to add the following into your config for set_kinematic_position to work
 !!!
 !!! ```
 !!! [force_move]
