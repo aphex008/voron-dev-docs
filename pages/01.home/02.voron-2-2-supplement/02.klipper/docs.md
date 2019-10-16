@@ -795,3 +795,4 @@ gcode:
 #   "PT100 INA826"
 ```
 
+###### tags: 'Voron', 'Klipper'
